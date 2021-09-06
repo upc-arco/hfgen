@@ -1,0 +1,1662 @@
+****ISSUE****
+Nam Sung Kim 17
+Namhyung Kim 1
+total: 18
+****END ISSUE****
+****ISSUE****
+Yuan Xie 0001 13
+Yuan Xie 2
+total: 15
+****END ISSUE****
+****ISSUE****
+Youtao Zhang 10
+Ying Zhang 3
+Yunqi Zhang 2
+Ye Zhang 0005 2
+Yu Zhang 0027 1
+Yiqiao Zhang 1
+Yanjun Zhang 1
+Yingya Zhang 1
+Yao Zhang 0001 1
+Yanyong Zhang 1
+Yan Zhang 0028 1
+total: 24
+****END ISSUE****
+****ISSUE****
+Rakesh Kumar 0002 10
+Rakesh Kumar 0003 3
+total: 13
+****END ISSUE****
+****ISSUE****
+Tao Li 0006 10
+Tao Li 3
+Tianyou Li 1
+Tong Li 0003 1
+total: 15
+****END ISSUE****
+****ISSUE****
+John Kim 9
+Jeremie S. Kim 3
+Jangwoo Kim 3
+Jungrae Kim 3
+Joon Kyung Kim 2
+Jiho Kim 1
+Joonsung Kim 1
+Jongwon Kim 1
+Jongman Kim 1
+Jungwon Kim 1
+Jesung Kim 1
+total: 26
+****END ISSUE****
+****ISSUE****
+Jung Ho Ahn 9
+Jaeguk Ahn 1
+Junwhan Ahn 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Jun Yang 0002 9
+Jianxun Yang 1
+Jun Yang 1
+Jeongmin Yang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+José F. Martínez 8
+Juan-Miguel Martínez 2
+total: 10
+****END ISSUE****
+****ISSUE****
+Lizhong Chen 8
+Lei Chen 1
+Lei Chen 0021 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yiran Chen 8
+Yunji Chen 2
+Yu-Hsin Chen 1
+Yajing Chen 1
+Yibo Chen 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Donghyuk Lee 8
+Donghun Lee 1
+De-Lei Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Carole-Jean Wu 7
+Chentao Wu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hyesoon Kim 7
+Hun-Seok Kim 2
+Heesu Kim 1
+Hyeonuk Kim 1
+Hyeonggyu Kim 1
+Hyojong Kim 1
+Hanjoon Kim 1
+Hyong-youb Kim 1
+total: 15
+****END ISSUE****
+****ISSUE****
+Lixin Zhang 0002 7
+Lunkai Zhang 1
+Liuhang Zhang 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Reetuparna Das 7
+Ripan Das 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hsien-Hsin S. Lee 6
+Hyunjin Lee 2
+Hyuk-Jae Lee 1
+Hyung Gyu Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Michael C. Huang 6
+Michael Huang 2
+total: 8
+****END ISSUE****
+****ISSUE****
+Yuanyuan Zhou 0001 5
+Yanqi Zhou 2
+Yuanyuan Zhou 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yoongu Kim 5
+Yeseong Kim 2
+Youngsok Kim 2
+Youngjae Kim 0001 2
+Yunseong Kim 1
+Young Geun Kim 1
+Yeonjae Kim 1
+total: 14
+****END ISSUE****
+****ISSUE****
+Xiaodong Wang 0020 4
+Xiaorui Wang 4
+Xiaodong Wang 2
+Xiebing Wang 1
+Xiaowei Wang 1
+Xiaoyang Wang 0006 1
+Xinran Wang 1
+Xingang Wang 1
+Xiaoqin Wang 1
+total: 16
+****END ISSUE****
+****ISSUE****
+Jae W. Lee 4
+Jaejin Lee 4
+Joonwon Lee 2
+Jinho Lee 1
+Jongsung Lee 1
+Jaewon Lee 1
+Junghee Lee 1
+Jongmin Lee 0002 1
+Jaekyu Lee 1
+Jun Lee 1
+total: 17
+****END ISSUE****
+****ISSUE****
+Li Zhao 0002 4
+Li Zhao 3
+Lihang Zhao 2
+Lutan Zhao 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Jian Li 0059 4
+Jiajun Li 3
+Jiangpeng Li 1
+Jianhui Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Hong Wang 0003 4
+Hanrui Wang 0002 2
+Haibin Wang 2
+Hao Wang 0011 2
+Haonan Wang 1
+Huijuan Wang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+Weigong Zhang 3
+Wei Zhang 0012 2
+Wangyuan Zhang 2
+Weifeng Zhang 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yang Hu 0001 3
+Y. Charlie Hu 2
+Yuxing Hu 1
+Yuanfang Hu 1
+Yiming Hu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Soontae Kim 3
+Seonghak Kim 2
+Seikwon Kim 1
+Sung-Joon Kim 1
+Sungkeun Kim 1
+Seungkyun Kim 1
+Seongbeom Kim 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yao Wang 0008 3
+Yanzhi Wang 2
+Yu Wang 0002 2
+Yipeng Wang 0002 1
+Yanghan Wang 1
+Yaohua Wang 1
+Yuan Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhe Wang 0023 3
+Zhiying Wang 0003 3
+Zhengrong Wang 2
+Zhe Wang 0003 1
+Ze-ke Wang 1
+Zhenning Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Yingmin Li 3
+Yang Li 2
+Yanyu Li 1
+Yanjing Li 1
+Yunfan Li 0002 1
+Yamin Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Xiaodong Zhang 0001 3
+Xingyao Zhang 2
+Xianwei Zhang 2
+Xuan Zhang 0001 1
+Xuebin Zhang 1
+Xiao Zhang 1
+Xiangyu Zhang 0001 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhao Zhang 0010 3
+Zheng Zhang 0001 3
+Zhekai Zhang 2
+Zhao Zhang 1
+Zhengya Zhang 1
+Zhiru Zhang 1
+Zhimin Zhang 1
+Zhiwei Zhang 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Sylvia Lee 1
+Sunho Lee 1
+Sanghee Lee 1
+Shin-Ying Lee 1
+Sangpil Lee 1
+Sunmi Lee 1
+Sukhan Lee 0002 1
+Sanghoon Lee 0006 1
+Sang Jeong Lee 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Nam Sung Kim 17
+Namhyung Kim 1
+total: 18
+****END ISSUE****
+****ISSUE****
+Yuan Xie 0001 13
+Yuan Xie 2
+total: 15
+****END ISSUE****
+****ISSUE****
+Youtao Zhang 10
+Ying Zhang 3
+Yunqi Zhang 2
+Ye Zhang 0005 2
+Yu Zhang 0027 1
+Yiqiao Zhang 1
+Yanjun Zhang 1
+Yingya Zhang 1
+Yao Zhang 0001 1
+Yanyong Zhang 1
+Yan Zhang 0028 1
+total: 24
+****END ISSUE****
+****ISSUE****
+Rakesh Kumar 0002 10
+Rakesh Kumar 0003 3
+total: 13
+****END ISSUE****
+****ISSUE****
+Tao Li 0006 10
+Tao Li 3
+Tianyou Li 1
+Tong Li 0003 1
+total: 15
+****END ISSUE****
+****ISSUE****
+John Kim 9
+Jeremie S. Kim 3
+Jangwoo Kim 3
+Jungrae Kim 3
+Joon Kyung Kim 2
+Jiho Kim 1
+Joonsung Kim 1
+Jongwon Kim 1
+Jongman Kim 1
+Jungwon Kim 1
+Jesung Kim 1
+total: 26
+****END ISSUE****
+****ISSUE****
+Jung Ho Ahn 9
+Jaeguk Ahn 1
+Junwhan Ahn 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Jun Yang 0002 9
+Jianxun Yang 1
+Jun Yang 1
+Jeongmin Yang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+José F. Martínez 8
+Juan-Miguel Martínez 2
+total: 10
+****END ISSUE****
+****ISSUE****
+Lizhong Chen 8
+Lei Chen 1
+Lei Chen 0021 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yiran Chen 8
+Yunji Chen 2
+Yu-Hsin Chen 1
+Yajing Chen 1
+Yibo Chen 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Donghyuk Lee 8
+Donghun Lee 1
+De-Lei Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Carole-Jean Wu 7
+Chentao Wu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hyesoon Kim 7
+Hun-Seok Kim 2
+Heesu Kim 1
+Hyeonuk Kim 1
+Hyeonggyu Kim 1
+Hyojong Kim 1
+Hanjoon Kim 1
+Hyong-youb Kim 1
+total: 15
+****END ISSUE****
+****ISSUE****
+Lixin Zhang 0002 7
+Lunkai Zhang 1
+Liuhang Zhang 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Reetuparna Das 7
+Ripan Das 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hsien-Hsin S. Lee 6
+Hyunjin Lee 2
+Hyuk-Jae Lee 1
+Hyung Gyu Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Michael C. Huang 6
+Michael Huang 2
+total: 8
+****END ISSUE****
+****ISSUE****
+Yuanyuan Zhou 0001 5
+Yanqi Zhou 2
+Yuanyuan Zhou 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yoongu Kim 5
+Yeseong Kim 2
+Youngsok Kim 2
+Youngjae Kim 0001 2
+Yunseong Kim 1
+Young Geun Kim 1
+Yeonjae Kim 1
+total: 14
+****END ISSUE****
+****ISSUE****
+Xiaodong Wang 0020 4
+Xiaorui Wang 4
+Xiaodong Wang 2
+Xiebing Wang 1
+Xiaowei Wang 1
+Xiaoyang Wang 0006 1
+Xinran Wang 1
+Xingang Wang 1
+Xiaoqin Wang 1
+total: 16
+****END ISSUE****
+****ISSUE****
+Jae W. Lee 4
+Jaejin Lee 4
+Joonwon Lee 2
+Jinho Lee 1
+Jongsung Lee 1
+Jaewon Lee 1
+Junghee Lee 1
+Jongmin Lee 0002 1
+Jaekyu Lee 1
+Jun Lee 1
+total: 17
+****END ISSUE****
+****ISSUE****
+Li Zhao 0002 4
+Li Zhao 3
+Lihang Zhao 2
+Lutan Zhao 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Jian Li 0059 4
+Jiajun Li 3
+Jiangpeng Li 1
+Jianhui Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Hong Wang 0003 4
+Hanrui Wang 0002 2
+Haibin Wang 2
+Hao Wang 0011 2
+Haonan Wang 1
+Huijuan Wang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+Weigong Zhang 3
+Wei Zhang 0012 2
+Wangyuan Zhang 2
+Weifeng Zhang 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yang Hu 0001 3
+Y. Charlie Hu 2
+Yuxing Hu 1
+Yuanfang Hu 1
+Yiming Hu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Soontae Kim 3
+Seonghak Kim 2
+Seikwon Kim 1
+Sung-Joon Kim 1
+Sungkeun Kim 1
+Seungkyun Kim 1
+Seongbeom Kim 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yao Wang 0008 3
+Yanzhi Wang 2
+Yu Wang 0002 2
+Yipeng Wang 0002 1
+Yanghan Wang 1
+Yaohua Wang 1
+Yuan Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhe Wang 0023 3
+Zhiying Wang 0003 3
+Zhengrong Wang 2
+Zhe Wang 0003 1
+Ze-ke Wang 1
+Zhenning Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Yingmin Li 3
+Yang Li 2
+Yanyu Li 1
+Yanjing Li 1
+Yunfan Li 0002 1
+Yamin Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Xiaodong Zhang 0001 3
+Xingyao Zhang 2
+Xianwei Zhang 2
+Xuan Zhang 0001 1
+Xuebin Zhang 1
+Xiao Zhang 1
+Xiangyu Zhang 0001 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhao Zhang 0010 3
+Zheng Zhang 0001 3
+Zhekai Zhang 2
+Zhao Zhang 1
+Zhengya Zhang 1
+Zhiru Zhang 1
+Zhimin Zhang 1
+Zhiwei Zhang 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Sylvia Lee 1
+Sunho Lee 1
+Sanghee Lee 1
+Shin-Ying Lee 1
+Sangpil Lee 1
+Sunmi Lee 1
+Sukhan Lee 0002 1
+Sanghoon Lee 0006 1
+Sang Jeong Lee 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Nam Sung Kim 17
+Namhyung Kim 1
+total: 18
+****END ISSUE****
+****ISSUE****
+Yuan Xie 0001 13
+Yuan Xie 2
+total: 15
+****END ISSUE****
+****ISSUE****
+Youtao Zhang 10
+Ying Zhang 3
+Yunqi Zhang 2
+Ye Zhang 0005 2
+Yu Zhang 0027 1
+Yiqiao Zhang 1
+Yanjun Zhang 1
+Yingya Zhang 1
+Yao Zhang 0001 1
+Yanyong Zhang 1
+Yan Zhang 0028 1
+total: 24
+****END ISSUE****
+****ISSUE****
+Rakesh Kumar 0002 10
+Rakesh Kumar 0003 3
+total: 13
+****END ISSUE****
+****ISSUE****
+Tao Li 0006 10
+Tao Li 3
+Tianyou Li 1
+Tong Li 0003 1
+total: 15
+****END ISSUE****
+****ISSUE****
+John Kim 9
+Jeremie S. Kim 3
+Jangwoo Kim 3
+Jungrae Kim 3
+Joon Kyung Kim 2
+Jiho Kim 1
+Joonsung Kim 1
+Jongwon Kim 1
+Jongman Kim 1
+Jungwon Kim 1
+Jesung Kim 1
+total: 26
+****END ISSUE****
+****ISSUE****
+Jung Ho Ahn 9
+Jaeguk Ahn 1
+Junwhan Ahn 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Jun Yang 0002 9
+Jianxun Yang 1
+Jun Yang 1
+Jeongmin Yang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+José F. Martínez 8
+Juan-Miguel Martínez 2
+total: 10
+****END ISSUE****
+****ISSUE****
+Lizhong Chen 8
+Lei Chen 1
+Lei Chen 0021 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yiran Chen 8
+Yunji Chen 2
+Yu-Hsin Chen 1
+Yajing Chen 1
+Yibo Chen 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Donghyuk Lee 8
+Donghun Lee 1
+De-Lei Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Carole-Jean Wu 7
+Chentao Wu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hyesoon Kim 7
+Hun-Seok Kim 2
+Heesu Kim 1
+Hyeonuk Kim 1
+Hyeonggyu Kim 1
+Hyojong Kim 1
+Hanjoon Kim 1
+Hyong-youb Kim 1
+total: 15
+****END ISSUE****
+****ISSUE****
+Lixin Zhang 0002 7
+Lunkai Zhang 1
+Liuhang Zhang 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Reetuparna Das 7
+Ripan Das 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hsien-Hsin S. Lee 6
+Hyunjin Lee 2
+Hyuk-Jae Lee 1
+Hyung Gyu Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Michael C. Huang 6
+Michael Huang 2
+total: 8
+****END ISSUE****
+****ISSUE****
+Yuanyuan Zhou 0001 5
+Yanqi Zhou 2
+Yuanyuan Zhou 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yoongu Kim 5
+Yeseong Kim 2
+Youngsok Kim 2
+Youngjae Kim 0001 2
+Yunseong Kim 1
+Young Geun Kim 1
+Yeonjae Kim 1
+total: 14
+****END ISSUE****
+****ISSUE****
+Xiaodong Wang 0020 4
+Xiaorui Wang 4
+Xiaodong Wang 2
+Xiebing Wang 1
+Xiaowei Wang 1
+Xiaoyang Wang 0006 1
+Xinran Wang 1
+Xingang Wang 1
+Xiaoqin Wang 1
+total: 16
+****END ISSUE****
+****ISSUE****
+Jae W. Lee 4
+Jaejin Lee 4
+Joonwon Lee 2
+Jinho Lee 1
+Jongsung Lee 1
+Jaewon Lee 1
+Junghee Lee 1
+Jongmin Lee 0002 1
+Jaekyu Lee 1
+Jun Lee 1
+total: 17
+****END ISSUE****
+****ISSUE****
+Li Zhao 0002 4
+Li Zhao 3
+Lihang Zhao 2
+Lutan Zhao 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Jian Li 0059 4
+Jiajun Li 3
+Jiangpeng Li 1
+Jianhui Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Hong Wang 0003 4
+Hanrui Wang 0002 2
+Haibin Wang 2
+Hao Wang 0011 2
+Haonan Wang 1
+Huijuan Wang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+Weigong Zhang 3
+Wei Zhang 0012 2
+Wangyuan Zhang 2
+Weifeng Zhang 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yang Hu 0001 3
+Y. Charlie Hu 2
+Yuxing Hu 1
+Yuanfang Hu 1
+Yiming Hu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Soontae Kim 3
+Seonghak Kim 2
+Seikwon Kim 1
+Sung-Joon Kim 1
+Sungkeun Kim 1
+Seungkyun Kim 1
+Seongbeom Kim 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yao Wang 0008 3
+Yanzhi Wang 2
+Yu Wang 0002 2
+Yipeng Wang 0002 1
+Yanghan Wang 1
+Yaohua Wang 1
+Yuan Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhe Wang 0023 3
+Zhiying Wang 0003 3
+Zhengrong Wang 2
+Zhe Wang 0003 1
+Ze-ke Wang 1
+Zhenning Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Yingmin Li 3
+Yang Li 2
+Yanyu Li 1
+Yanjing Li 1
+Yunfan Li 0002 1
+Yamin Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Xiaodong Zhang 0001 3
+Xingyao Zhang 2
+Xianwei Zhang 2
+Xuan Zhang 0001 1
+Xuebin Zhang 1
+Xiao Zhang 1
+Xiangyu Zhang 0001 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhao Zhang 0010 3
+Zheng Zhang 0001 3
+Zhekai Zhang 2
+Zhao Zhang 1
+Zhengya Zhang 1
+Zhiru Zhang 1
+Zhimin Zhang 1
+Zhiwei Zhang 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Sylvia Lee 1
+Sunho Lee 1
+Sanghee Lee 1
+Shin-Ying Lee 1
+Sangpil Lee 1
+Sunmi Lee 1
+Sukhan Lee 0002 1
+Sanghoon Lee 0006 1
+Sang Jeong Lee 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Nam Sung Kim 17
+Namhyung Kim 1
+total: 18
+****END ISSUE****
+****ISSUE****
+Yuan Xie 0001 13
+Yuan Xie 2
+total: 15
+****END ISSUE****
+****ISSUE****
+Youtao Zhang 10
+Ying Zhang 3
+Yunqi Zhang 2
+Ye Zhang 0005 2
+Yu Zhang 0027 1
+Yiqiao Zhang 1
+Yanjun Zhang 1
+Yingya Zhang 1
+Yao Zhang 0001 1
+Yanyong Zhang 1
+Yan Zhang 0028 1
+total: 24
+****END ISSUE****
+****ISSUE****
+Rakesh Kumar 0002 10
+Rakesh Kumar 0003 3
+total: 13
+****END ISSUE****
+****ISSUE****
+Tao Li 0006 10
+Tao Li 3
+Tianyou Li 1
+Tong Li 0003 1
+total: 15
+****END ISSUE****
+****ISSUE****
+John Kim 9
+Jeremie S. Kim 3
+Jangwoo Kim 3
+Jungrae Kim 3
+Joon Kyung Kim 2
+Jiho Kim 1
+Joonsung Kim 1
+Jongwon Kim 1
+Jongman Kim 1
+Jungwon Kim 1
+Jesung Kim 1
+total: 26
+****END ISSUE****
+****ISSUE****
+Jung Ho Ahn 9
+Jaeguk Ahn 1
+Junwhan Ahn 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Jun Yang 0002 9
+Jianxun Yang 1
+Jun Yang 1
+Jeongmin Yang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+José F. Martínez 8
+Juan-Miguel Martínez 2
+total: 10
+****END ISSUE****
+****ISSUE****
+Lizhong Chen 8
+Lei Chen 1
+Lei Chen 0021 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yiran Chen 8
+Yunji Chen 2
+Yu-Hsin Chen 1
+Yajing Chen 1
+Yibo Chen 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Donghyuk Lee 8
+Donghun Lee 1
+De-Lei Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Carole-Jean Wu 7
+Chentao Wu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hyesoon Kim 7
+Hun-Seok Kim 2
+Heesu Kim 1
+Hyeonuk Kim 1
+Hyeonggyu Kim 1
+Hyojong Kim 1
+Hanjoon Kim 1
+Hyong-youb Kim 1
+total: 15
+****END ISSUE****
+****ISSUE****
+Lixin Zhang 0002 7
+Lunkai Zhang 1
+Liuhang Zhang 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Reetuparna Das 7
+Ripan Das 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hsien-Hsin S. Lee 6
+Hyunjin Lee 2
+Hyuk-Jae Lee 1
+Hyung Gyu Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Michael C. Huang 6
+Michael Huang 2
+total: 8
+****END ISSUE****
+****ISSUE****
+Yuanyuan Zhou 0001 5
+Yanqi Zhou 2
+Yuanyuan Zhou 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yoongu Kim 5
+Yeseong Kim 2
+Youngsok Kim 2
+Youngjae Kim 0001 2
+Yunseong Kim 1
+Young Geun Kim 1
+Yeonjae Kim 1
+total: 14
+****END ISSUE****
+****ISSUE****
+Xiaodong Wang 0020 4
+Xiaorui Wang 4
+Xiaodong Wang 2
+Xiebing Wang 1
+Xiaowei Wang 1
+Xiaoyang Wang 0006 1
+Xinran Wang 1
+Xingang Wang 1
+Xiaoqin Wang 1
+total: 16
+****END ISSUE****
+****ISSUE****
+Jae W. Lee 4
+Jaejin Lee 4
+Joonwon Lee 2
+Jinho Lee 1
+Jongsung Lee 1
+Jaewon Lee 1
+Junghee Lee 1
+Jongmin Lee 0002 1
+Jaekyu Lee 1
+Jun Lee 1
+total: 17
+****END ISSUE****
+****ISSUE****
+Li Zhao 0002 4
+Li Zhao 3
+Lihang Zhao 2
+Lutan Zhao 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Jian Li 0059 4
+Jiajun Li 3
+Jiangpeng Li 1
+Jianhui Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Hong Wang 0003 4
+Hanrui Wang 0002 2
+Haibin Wang 2
+Hao Wang 0011 2
+Haonan Wang 1
+Huijuan Wang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+Weigong Zhang 3
+Wei Zhang 0012 2
+Wangyuan Zhang 2
+Weifeng Zhang 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yang Hu 0001 3
+Y. Charlie Hu 2
+Yuxing Hu 1
+Yuanfang Hu 1
+Yiming Hu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Soontae Kim 3
+Seonghak Kim 2
+Seikwon Kim 1
+Sung-Joon Kim 1
+Sungkeun Kim 1
+Seungkyun Kim 1
+Seongbeom Kim 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yao Wang 0008 3
+Yanzhi Wang 2
+Yu Wang 0002 2
+Yipeng Wang 0002 1
+Yanghan Wang 1
+Yaohua Wang 1
+Yuan Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhe Wang 0023 3
+Zhiying Wang 0003 3
+Zhengrong Wang 2
+Zhe Wang 0003 1
+Ze-ke Wang 1
+Zhenning Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Yingmin Li 3
+Yang Li 2
+Yanyu Li 1
+Yanjing Li 1
+Yunfan Li 0002 1
+Yamin Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Xiaodong Zhang 0001 3
+Xingyao Zhang 2
+Xianwei Zhang 2
+Xuan Zhang 0001 1
+Xuebin Zhang 1
+Xiao Zhang 1
+Xiangyu Zhang 0001 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhao Zhang 0010 3
+Zheng Zhang 0001 3
+Zhekai Zhang 2
+Zhao Zhang 1
+Zhengya Zhang 1
+Zhiru Zhang 1
+Zhimin Zhang 1
+Zhiwei Zhang 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Sylvia Lee 1
+Sunho Lee 1
+Sanghee Lee 1
+Shin-Ying Lee 1
+Sangpil Lee 1
+Sunmi Lee 1
+Sukhan Lee 0002 1
+Sanghoon Lee 0006 1
+Sang Jeong Lee 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Nam Sung Kim 17
+Namhyung Kim 1
+total: 18
+****END ISSUE****
+****ISSUE****
+Yuan Xie 0001 13
+Yuan Xie 2
+total: 15
+****END ISSUE****
+****ISSUE****
+Youtao Zhang 10
+Ying Zhang 3
+Yunqi Zhang 2
+Ye Zhang 0005 2
+Yu Zhang 0027 1
+Yiqiao Zhang 1
+Yanjun Zhang 1
+Yingya Zhang 1
+Yao Zhang 0001 1
+Yanyong Zhang 1
+Yan Zhang 0028 1
+total: 24
+****END ISSUE****
+****ISSUE****
+Rakesh Kumar 0002 10
+Rakesh Kumar 0003 3
+total: 13
+****END ISSUE****
+****ISSUE****
+Tao Li 0006 10
+Tao Li 3
+Tianyou Li 1
+Tong Li 0003 1
+total: 15
+****END ISSUE****
+****ISSUE****
+John Kim 9
+Jeremie S. Kim 3
+Jangwoo Kim 3
+Jungrae Kim 3
+Joon Kyung Kim 2
+Jiho Kim 1
+Joonsung Kim 1
+Jongwon Kim 1
+Jongman Kim 1
+Jungwon Kim 1
+Jesung Kim 1
+total: 26
+****END ISSUE****
+****ISSUE****
+Jung Ho Ahn 9
+Jaeguk Ahn 1
+Junwhan Ahn 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Jun Yang 0002 9
+Jianxun Yang 1
+Jun Yang 1
+Jeongmin Yang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+José F. Martínez 8
+Juan-Miguel Martínez 2
+total: 10
+****END ISSUE****
+****ISSUE****
+Lizhong Chen 8
+Lei Chen 1
+Lei Chen 0021 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yiran Chen 8
+Yunji Chen 2
+Yu-Hsin Chen 1
+Yajing Chen 1
+Yibo Chen 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Donghyuk Lee 8
+Donghun Lee 1
+De-Lei Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Carole-Jean Wu 7
+Chentao Wu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hyesoon Kim 7
+Hun-Seok Kim 2
+Heesu Kim 1
+Hyeonuk Kim 1
+Hyeonggyu Kim 1
+Hyojong Kim 1
+Hanjoon Kim 1
+Hyong-youb Kim 1
+total: 15
+****END ISSUE****
+****ISSUE****
+Lixin Zhang 0002 7
+Lunkai Zhang 1
+Liuhang Zhang 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Reetuparna Das 7
+Ripan Das 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hsien-Hsin S. Lee 6
+Hyunjin Lee 2
+Hyuk-Jae Lee 1
+Hyung Gyu Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Michael C. Huang 6
+Michael Huang 2
+total: 8
+****END ISSUE****
+****ISSUE****
+Yuanyuan Zhou 0001 5
+Yanqi Zhou 2
+Yuanyuan Zhou 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yoongu Kim 5
+Yeseong Kim 2
+Youngsok Kim 2
+Youngjae Kim 0001 2
+Yunseong Kim 1
+Young Geun Kim 1
+Yeonjae Kim 1
+total: 14
+****END ISSUE****
+****ISSUE****
+Xiaodong Wang 0020 4
+Xiaorui Wang 4
+Xiaodong Wang 2
+Xiebing Wang 1
+Xiaowei Wang 1
+Xiaoyang Wang 0006 1
+Xinran Wang 1
+Xingang Wang 1
+Xiaoqin Wang 1
+total: 16
+****END ISSUE****
+****ISSUE****
+Jae W. Lee 4
+Jaejin Lee 4
+Joonwon Lee 2
+Jinho Lee 1
+Jongsung Lee 1
+Jaewon Lee 1
+Junghee Lee 1
+Jongmin Lee 0002 1
+Jaekyu Lee 1
+Jun Lee 1
+total: 17
+****END ISSUE****
+****ISSUE****
+Li Zhao 0002 4
+Li Zhao 3
+Lihang Zhao 2
+Lutan Zhao 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Jian Li 0059 4
+Jiajun Li 3
+Jiangpeng Li 1
+Jianhui Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Hong Wang 0003 4
+Hanrui Wang 0002 2
+Haibin Wang 2
+Hao Wang 0011 2
+Haonan Wang 1
+Huijuan Wang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+Weigong Zhang 3
+Wei Zhang 0012 2
+Wangyuan Zhang 2
+Weifeng Zhang 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yang Hu 0001 3
+Y. Charlie Hu 2
+Yuxing Hu 1
+Yuanfang Hu 1
+Yiming Hu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Soontae Kim 3
+Seonghak Kim 2
+Seikwon Kim 1
+Sung-Joon Kim 1
+Sungkeun Kim 1
+Seungkyun Kim 1
+Seongbeom Kim 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yao Wang 0008 3
+Yanzhi Wang 2
+Yu Wang 0002 2
+Yipeng Wang 0002 1
+Yanghan Wang 1
+Yaohua Wang 1
+Yuan Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhe Wang 0023 3
+Zhiying Wang 0003 3
+Zhengrong Wang 2
+Zhe Wang 0003 1
+Ze-ke Wang 1
+Zhenning Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Yingmin Li 3
+Yang Li 2
+Yanyu Li 1
+Yanjing Li 1
+Yunfan Li 0002 1
+Yamin Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Xiaodong Zhang 0001 3
+Xingyao Zhang 2
+Xianwei Zhang 2
+Xuan Zhang 0001 1
+Xuebin Zhang 1
+Xiao Zhang 1
+Xiangyu Zhang 0001 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhao Zhang 0010 3
+Zheng Zhang 0001 3
+Zhekai Zhang 2
+Zhao Zhang 1
+Zhengya Zhang 1
+Zhiru Zhang 1
+Zhimin Zhang 1
+Zhiwei Zhang 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Sylvia Lee 1
+Sunho Lee 1
+Sanghee Lee 1
+Shin-Ying Lee 1
+Sangpil Lee 1
+Sunmi Lee 1
+Sukhan Lee 0002 1
+Sanghoon Lee 0006 1
+Sang Jeong Lee 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Nam Sung Kim 17
+Namhyung Kim 1
+total: 18
+****END ISSUE****
+****ISSUE****
+Yuan Xie 0001 13
+Yuan Xie 2
+total: 15
+****END ISSUE****
+****ISSUE****
+Youtao Zhang 10
+Ying Zhang 3
+Yunqi Zhang 2
+Ye Zhang 0005 2
+Yu Zhang 0027 1
+Yiqiao Zhang 1
+Yanjun Zhang 1
+Yingya Zhang 1
+Yao Zhang 0001 1
+Yanyong Zhang 1
+Yan Zhang 0028 1
+total: 24
+****END ISSUE****
+****ISSUE****
+Rakesh Kumar 0002 10
+Rakesh Kumar 0003 3
+total: 13
+****END ISSUE****
+****ISSUE****
+Tao Li 0006 10
+Tao Li 3
+Tianyou Li 1
+Tong Li 0003 1
+total: 15
+****END ISSUE****
+****ISSUE****
+John Kim 9
+Jeremie S. Kim 3
+Jangwoo Kim 3
+Jungrae Kim 3
+Joon Kyung Kim 2
+Jiho Kim 1
+Joonsung Kim 1
+Jongwon Kim 1
+Jongman Kim 1
+Jungwon Kim 1
+Jesung Kim 1
+total: 26
+****END ISSUE****
+****ISSUE****
+Jung Ho Ahn 9
+Jaeguk Ahn 1
+Junwhan Ahn 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Jun Yang 0002 9
+Jianxun Yang 1
+Jun Yang 1
+Jeongmin Yang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+José F. Martínez 8
+Juan-Miguel Martínez 2
+total: 10
+****END ISSUE****
+****ISSUE****
+Lizhong Chen 8
+Lei Chen 1
+Lei Chen 0021 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yiran Chen 8
+Yunji Chen 2
+Yu-Hsin Chen 1
+Yajing Chen 1
+Yibo Chen 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Donghyuk Lee 8
+Donghun Lee 1
+De-Lei Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Carole-Jean Wu 7
+Chentao Wu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hyesoon Kim 7
+Hun-Seok Kim 2
+Heesu Kim 1
+Hyeonuk Kim 1
+Hyeonggyu Kim 1
+Hyojong Kim 1
+Hanjoon Kim 1
+Hyong-youb Kim 1
+total: 15
+****END ISSUE****
+****ISSUE****
+Lixin Zhang 0002 7
+Lunkai Zhang 1
+Liuhang Zhang 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Reetuparna Das 7
+Ripan Das 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Hsien-Hsin S. Lee 6
+Hyunjin Lee 2
+Hyuk-Jae Lee 1
+Hyung Gyu Lee 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Michael C. Huang 6
+Michael Huang 2
+total: 8
+****END ISSUE****
+****ISSUE****
+Yuanyuan Zhou 0001 5
+Yanqi Zhou 2
+Yuanyuan Zhou 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yoongu Kim 5
+Yeseong Kim 2
+Youngsok Kim 2
+Youngjae Kim 0001 2
+Yunseong Kim 1
+Young Geun Kim 1
+Yeonjae Kim 1
+total: 14
+****END ISSUE****
+****ISSUE****
+Xiaodong Wang 0020 4
+Xiaorui Wang 4
+Xiaodong Wang 2
+Xiebing Wang 1
+Xiaowei Wang 1
+Xiaoyang Wang 0006 1
+Xinran Wang 1
+Xingang Wang 1
+Xiaoqin Wang 1
+total: 16
+****END ISSUE****
+****ISSUE****
+Jae W. Lee 4
+Jaejin Lee 4
+Joonwon Lee 2
+Jinho Lee 1
+Jongsung Lee 1
+Jaewon Lee 1
+Junghee Lee 1
+Jongmin Lee 0002 1
+Jaekyu Lee 1
+Jun Lee 1
+total: 17
+****END ISSUE****
+****ISSUE****
+Li Zhao 0002 4
+Li Zhao 3
+Lihang Zhao 2
+Lutan Zhao 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Jian Li 0059 4
+Jiajun Li 3
+Jiangpeng Li 1
+Jianhui Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Hong Wang 0003 4
+Hanrui Wang 0002 2
+Haibin Wang 2
+Hao Wang 0011 2
+Haonan Wang 1
+Huijuan Wang 1
+total: 12
+****END ISSUE****
+****ISSUE****
+Weigong Zhang 3
+Wei Zhang 0012 2
+Wangyuan Zhang 2
+Weifeng Zhang 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Yang Hu 0001 3
+Y. Charlie Hu 2
+Yuxing Hu 1
+Yuanfang Hu 1
+Yiming Hu 1
+total: 8
+****END ISSUE****
+****ISSUE****
+Soontae Kim 3
+Seonghak Kim 2
+Seikwon Kim 1
+Sung-Joon Kim 1
+Sungkeun Kim 1
+Seungkyun Kim 1
+Seongbeom Kim 1
+total: 10
+****END ISSUE****
+****ISSUE****
+Yao Wang 0008 3
+Yanzhi Wang 2
+Yu Wang 0002 2
+Yipeng Wang 0002 1
+Yanghan Wang 1
+Yaohua Wang 1
+Yuan Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhe Wang 0023 3
+Zhiying Wang 0003 3
+Zhengrong Wang 2
+Zhe Wang 0003 1
+Ze-ke Wang 1
+Zhenning Wang 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Yingmin Li 3
+Yang Li 2
+Yanyu Li 1
+Yanjing Li 1
+Yunfan Li 0002 1
+Yamin Li 1
+total: 9
+****END ISSUE****
+****ISSUE****
+Xiaodong Zhang 0001 3
+Xingyao Zhang 2
+Xianwei Zhang 2
+Xuan Zhang 0001 1
+Xuebin Zhang 1
+Xiao Zhang 1
+Xiangyu Zhang 0001 1
+total: 11
+****END ISSUE****
+****ISSUE****
+Zhao Zhang 0010 3
+Zheng Zhang 0001 3
+Zhekai Zhang 2
+Zhao Zhang 1
+Zhengya Zhang 1
+Zhiru Zhang 1
+Zhimin Zhang 1
+Zhiwei Zhang 1
+total: 13
+****END ISSUE****
+****ISSUE****
+Sylvia Lee 1
+Sunho Lee 1
+Sanghee Lee 1
+Shin-Ying Lee 1
+Sangpil Lee 1
+Sunmi Lee 1
+Sukhan Lee 0002 1
+Sanghoon Lee 0006 1
+Sang Jeong Lee 1
+total: 9
+****END ISSUE****

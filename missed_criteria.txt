@@ -1,0 +1,201 @@
+found paper not meeting criteria
+pageLength:   8
+year:  2019
+attribute:  conf/hpca/CurtsingerB19
+authors: Ryland Curtsinger, David P. Bunde, 
+found paper not meeting criteria
+pageLength:   8
+year:  2019
+attribute:  conf/hpca/ZahnYEGF19
+authors: Felix Zahn, Pedro Yébenes, Jesús Escudero-Sahuquillo, Pedro Javier García, Holger Fröning, 
+found paper not meeting criteria
+pageLength:   8
+year:  2018
+attribute:  conf/hpca/AndujarCAMLASM18
+authors: Francisco J. Andujar, Salvador Coll, Marina Alonso, Juan-Miguel Martínez, Pedro López 0001, Francisco J. Alfaro, José L. Sánchez 0002, Raúl Martínez, 
+found paper not meeting criteria
+pageLength:   8
+year:  2018
+attribute:  conf/hpca/BenitoFVB18
+authors: Mariano Benito, Pablo Fuentes, Enrique Vallejo 0001, Ramón Beivide, 
+found paper not meeting criteria
+pageLength:   8
+year:  2018
+attribute:  conf/hpca/Cano-CanoAAS18
+authors: Javier Cano-Cano, Francisco J. Andujar, Francisco J. Alfaro, José L. Sánchez 0002, 
+found paper not meeting criteria
+pageLength:   7
+year:  2018
+attribute:  conf/hpca/GliksbergQG18
+authors: John Gliksberg, Jean-Noël Quintin, Pedro Javier García, 
+found paper not meeting criteria
+pageLength:   8
+year:  2018
+attribute:  conf/hpca/ReanoPS18
+authors: Carlos Reaño, Javier Prades, Federico Silla, 
+found paper not meeting criteria
+pageLength:   8
+year:  2018
+attribute:  conf/hpca/ZahnSF18
+authors: Felix Zahn, Armin Schoffer, Holger Fröning, 
+found paper not meeting criteria
+pageLength:   8
+year:  2017
+attribute:  conf/hpca/AndujarV0ADF17
+authors: Francisco J. Andujar, Juan A. Villar, José L. Sánchez 0002, Francisco J. Alfaro, José Duato, Holger Fröning, 
+found paper not meeting criteria
+pageLength:   8
+year:  2017
+attribute:  conf/hpca/BelkaDMMRB17
+authors: Madison Belka, Myra Doubet, Sofia Meyers, Rosemary Momoh, David Rincon-Cruz, David P. Bunde, 
+found paper not meeting criteria
+pageLength:   8
+year:  2017
+attribute:  conf/hpca/Benito0BI17
+authors: Mariano Benito, Enrique Vallejo 0001, Ramón Beivide, Cruz Izu, 
+found paper not meeting criteria
+pageLength:   8
+year:  2017
+attribute:  conf/hpca/PerotinC17
+authors: Matthieu Perotin, Tom Cornebize, 
+found paper not meeting criteria
+pageLength:   8
+year:  2017
+attribute:  conf/hpca/ShimKLM17
+authors: Junhyun Shim, Joongi Kim, Keunhong Lee, Sue B. Moon, 
+found paper not meeting criteria
+pageLength:   8
+year:  2017
+attribute:  conf/hpca/ShpinerHEZGZ17
+authors: Alexander Shpiner, Zachy Haramaty, Saar Eliad, Vladimir Zdornov, Barak Gafni, Eitan Zahavi, 
+found paper not meeting criteria
+pageLength:   8
+year:  2017
+attribute:  conf/hpca/YebenesEG0H17
+authors: Pedro Yébenes, Jesús Escudero-Sahuquillo, Pedro Javier García, Francisco J. Quiles 0001, Torsten Hoefler, 
+found paper not meeting criteria
+pageLength:   8
+year:  2017
+attribute:  conf/hpca/ZahnLF17
+authors: Felix Zahn, Steffen Lammel, Holger Fröning, 
+found paper not meeting criteria
+pageLength:   6
+year:  2016
+attribute:  conf/hpca/GhoshVKERMKEJS16
+authors: Siddhartha S. Ghosh, Davide Del Vento, Rory C. Kelly, Irfan Elahi, Nathan Rini, Benjamin Matthews, Storm Knights, Thomas Engel 0003, Ben Jamroz, Shawn Strande, 
+found paper not meeting criteria
+pageLength:   7
+year:  2016
+attribute:  conf/hpca/MaKM16
+authors: Sangwook Ma, Joongi Kim, Sue B. Moon, 
+found paper not meeting criteria
+pageLength:   4
+year:  2016
+attribute:  conf/hpca/MatheyYEGQ16
+authors: German Maglione Mathey, Pedro Yébenes, Jesús Escudero-Sahuquillo, Pedro Javier García, Francisco J. Quiles 0001, 
+found paper not meeting criteria
+pageLength:   8
+year:  2016
+attribute:  conf/hpca/PenarandaGSGL16
+authors: Roberto Peñaranda, Ernst Gunnar Gran, Tor Skeie, María Engracia Gómez, Pedro López 0001, 
+found paper not meeting criteria
+pageLength:   9
+year:  2016
+attribute:  conf/hpca/QuintinV16
+authors: Jean-Noël Quintin, Pierre Vignéras, 
+found paper not meeting criteria
+pageLength:   8
+year:  2016
+attribute:  conf/hpca/SillaPIR16
+authors: Federico Silla, Javier Prades, Sergio Iserte, Carlos Reaño, 
+found paper not meeting criteria
+pageLength:   8
+year:  2016
+attribute:  conf/hpca/YebenesEGAQ16
+authors: Pedro Yébenes, Jesús Escudero-Sahuquillo, Pedro Javier García, Francisco J. Alfaro, Francisco J. Quiles 0001, 
+found paper not meeting criteria
+pageLength:   8
+year:  2016
+attribute:  conf/hpca/ZahnYLGF16
+authors: Felix Zahn, Pedro Yébenes, Steffen Lammel, Pedro Javier García, Holger Fröning, 
+found paper not meeting criteria
+pageLength:   2
+year:  2011
+attribute:  conf/hpca/BhattacharjeeLM11
+authors: Abhishek Bhattacharjee, Daniel Lustig, Margaret Martonosi, 
+found paper not meeting criteria
+pageLength:   2
+year:  2011
+attribute:  conf/hpca/HowerDHW11
+authors: Derek Hower, Polina Dudnik, Mark D. Hill, David A. Wood 0001, 
+found paper not meeting criteria
+pageLength:   2
+year:  2011
+attribute:  conf/hpca/LeeSNY11
+authors: Dongyoon Lee, Mahmoud Said, Satish Narayanasamy, Zijiang Yang, 
+found paper not meeting criteria
+pageLength:   2
+year:  2009
+attribute:  conf/hpca/Banerjee09
+authors: Prith Banerjee, 
+found paper not meeting criteria
+pageLength:   2
+year:  2009
+attribute:  conf/hpca/Hill09
+authors: Mark D. Hill, 
+found paper not meeting criteria
+pageLength:   2
+year:  2009
+attribute:  conf/hpca/Patt09
+authors: Yale N. Patt, 
+found paper not meeting criteria
+pageLength:   2
+year:  2009
+attribute:  conf/hpca/Ranganathan09
+authors: Parthasarathy Ranganathan, 
+found paper not meeting criteria
+pageLength:   5
+year:  2007
+attribute:  conf/hpca/KatayamaO07
+authors: Yasunao Katayama, Atsuya Okazaki, 
+found paper not meeting criteria
+pageLength:   1
+year:  2006
+attribute:  conf/hpca/Emma06
+authors: Philip G. Emma, 
+found paper not meeting criteria
+pageLength:   1
+year:  2006
+attribute:  conf/hpca/Recio06
+authors: Renato Recio, 
+found paper not meeting criteria
+pageLength:   1
+year:  2006
+attribute:  conf/hpca/Yavatkar06
+authors: Raj Yavatkar, 
+found paper not meeting criteria
+pageLength:   5
+year:  2005
+attribute:  conf/hpca/Hofstee05
+authors: H. Peter Hofstee, 
+found paper not meeting criteria
+pageLength:   5
+year:  2005
+attribute:  conf/hpca/JacobsonBHBZEEGLST05
+authors: Hans M. Jacobson, Pradip Bose, Zhigang Hu, Alper Buyuktosunoglu, Victor V. Zyuban, Richard J. Eickemeyer, Lee Eisen, John Griswell, Doug Logan, Balaram Sinharoy, Joel M. Tendler, 
+found paper not meeting criteria
+pageLength:   5
+year:  2005
+attribute:  conf/hpca/MukherjeeER05
+authors: Shubhendu S. Mukherjee, Joel S. Emer, Steven K. Reinhardt, 
+found paper not meeting criteria
+pageLength:   4
+year:  2005
+attribute:  conf/hpca/RanganathanJ05
+authors: Parthasarathy Ranganathan, Norman P. Jouppi, 
+found paper not meeting criteria
+pageLength:   5
+year:  2005
+attribute:  conf/hpca/SpracklenA05
+authors: Lawrence Spracklen, Santosh G. Abraham, 
+total count =  1098
