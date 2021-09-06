@@ -2,7 +2,7 @@
 HPCA Hall of Fame Page Generator
 
 Simply run:
-`./run.sh`
+`./run.sh <up_to_year>`
 
 
 Based on original scripts:
