@@ -61,9 +61,9 @@ class LeaderBoard():
 		buffer += '  <tr>\n'
 		buffer += '    <th rowspan="2">Count</th>\n'
 		buffer += '    <th rowspan="2">Name</th>\n'
-		first_decade = self.first_year / 10
-		last_decade = self.last_year / 10
-		current_decade = first_decade
+		first_decade = int(self.first_year / 10)
+		last_decade = int(self.last_year / 10)
+		current_decade = int(first_decade)
 		year_labels = []
 		while current_decade <= last_decade:
 			if current_decade == first_decade:
@@ -108,20 +108,22 @@ class LeaderBoard():
 					if (year + i) % 10 == 9:
 						buffer += '    <td class="right-border-1px">' + c + '</td>\n'
 					else:
-						buffer += '    <td>' + c + '</td>\n'
+						buffer += '    <td style="text-align: left;">' + c + '</td>\n'
 				buffer += '  </tr>\n'
 			prev_total = cur_total
 		buffer += '</table>\n</body>\n</html>'
 		return buffer
 
 
-def usage():
-	print '[Usage]'
+def usage(script_name):
+	print ('[Usage]')
+	print("python3 {0} <last_year>".format(script_name))
 
 
 def main():
 	if len(sys.argv) < 2:
-		usage()
+		usage(sys.argv[0])
+		exit(1)
 	first_year = 1995
 	last_year = int(sys.argv[1])
 	with open('hpca_hof_%d.html'%last_year, 'w') as fout:
