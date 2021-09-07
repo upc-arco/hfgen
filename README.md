@@ -23,7 +23,7 @@ If conflicts are found you will be notified by the scripts. Also, there will be 
 
 In the database, authors with the same name have extra digits on their IDs.
 E.g., John Snow (id: 123/456 **-1**) and John Snow (id: 123/456 **-2**) would be two different people. 
-Sometimes the databse does not label an author with the extra digits. So there could be a John Snow (id: 123/456) as author, and we don't know if it is person '**-1** 'or '**-2**'.
+Sometimes the database does not label an author with the extra digits. So there could be a John Snow (id: 123/456) as the author, and we don't know if it is the person '**-1** 'or '**-2**'.
 
 
 ### How to fix the conflicts?
@@ -37,10 +37,10 @@ You will see something like this:
 total papers: 9
 ```
 
-Here author 123/456-2 might be part of the hall of fame if one of the other two papers belong to him. So we have to check this other two papers:
+Here author 123/456-2 might be part of the hall of fame if one of the other two papers belongs to him. So we have to check these other two papers:
  1) Open the `xml/dblp.xml` local file
  2) Search for entries of the unknown author (in this example `pid="123/456"`)
- 3) On those entries, look for the url of the paper (or it's title) and search it online for more information
+ 3) On those entries, look for the URL of the paper (or its title) and search it online for more information
  4) Verify if the extra information you found about the author of that paper (e.g., affiliation, orcid, etc) match with those of author 123/456-2 (can be obtained by: https://dblp.org/pid/<place_the_pid_here>.html, e.g.:  https://dblp.org/pid/123/456-2.html)
  5) If it matches, modify the entry (in file `xml/dblp.xml`) so that `pid="123/456"` now becomes `pid="123/456-2"`
  6) It if does not match (or match with someone else), try to find the specific id to assign the paper (e.g. `pid="123/456-1"`), or leave it as is (in this case, there might be reported conflicts later, but can ignore them because you just manually checked).
