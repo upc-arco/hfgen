@@ -25,7 +25,7 @@ fi
 echo "*********************************************"
 echo "Building hpca ranking..."
 ./list_generator.py --endYear=$year
-echo "Ranking done. Publications that did not matched criteria can be found at 'missed_criteria.txt'"
+echo "Ranking done. Publications that did not match criteria can be found at 'missed_criteria.txt'"
 
 echo "*********************************************"
 echo "Checking for conlifcts"              # old way
@@ -42,7 +42,7 @@ echo "HPCA hall of fame table saved as 'hpca_hof_$year.html'"
 
 if [ -f conflicts.txt ]; then
     echo "*********************************************"
-    echo " * IMPORTANT: There are unsolved conflicts. Please see conflicts.txt file. You can either"
+    echo " * IMPORTANT: There are unsolved conflicts. Please see conflicts.txt file. You can either:"
     echo " * 1) manually update the ./xml/dblp.xml database file - to specify the author - and re-run this script "
     echo " * 2) manually fix output file and re-run the hfgen.py script again"
 fi
