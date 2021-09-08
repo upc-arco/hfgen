@@ -1,0 +1,17 @@
+# Manually solved conflicts for 2021
+# These authors named below were reported in script_conflicts.txt and found to be the same
+# Their keys were merged in the xml to generate the table correctly.
+
+Yuan Xie 0001
+Yuan Xie
+(https://seal.ece.ucsb.edu/publications)
+
+Tao Li 0006
+Tao Li
+
+Jun Yang 0002
+Jun Yang
+
+Michael C. Huang 
+Michael Huang
+(http://www2.ece.rochester.edu/~mihuang/Publications.html)
