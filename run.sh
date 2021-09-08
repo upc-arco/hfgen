@@ -27,9 +27,9 @@ echo "Building hpca ranking..."
 ./list_generator.py --endYear=$year
 echo "Ranking done. Publications that did not matched criteria can be found at 'missed_criteria.txt'"
 
-#echo "*********************************************"
-#echo "Checking for conlifcts"              # old way
-#./conflict_checker.py
+echo "*********************************************"
+echo "Checking for conlifcts"              # old way
+./conflict_checker.py
 
 cp out.txt  data/$year.in
 

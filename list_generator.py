@@ -142,7 +142,8 @@ def eventDrivenParsing():
     sortedResult = sorted(authorCount.items(), key=operator.itemgetter(1),
                            reverse=True)
     printOutInfo(authorData, authorNames, sortedResult, outputFile)
-    reportConflicts(authorNames, authorCount)
+    # reportConflicts(authorNames, authorCount) # there are other problems in the dblp id that cause this method to not be sufficiently generic
+                                                # temporarly back again to use the conflict_checker.py script until a better solution is found
 
 
 def parseArgs():
