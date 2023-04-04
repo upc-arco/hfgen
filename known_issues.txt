@@ -1,0 +1,14 @@
+Use this file to keep track of known issues.
+
+1 - 
+Author Hsien-Hsin Sean Lee has misindexed paper in dblp.
+The problem is that both IEEE Xplorer and dblp (which probably just parses from the former) were reporting one of his HPCA 2022 papers to be 4 pages long. This was causing it to be filtered out by the scripts (as if it was a workshop paper).
+
+Hercules: Heterogeneity-Aware Inference Serving for At-Scale Personalized Recommendation
+Page(s):141 - 144
+
+The 141 - 144 should be 141 - 154 (as shown in the pdf https://ieeexplore.ieee.org/document/9773234).
+
+We manually fixed the obtained data from dbl, correcting the page number.
+
+Also, we have contacted IEEE Xplorer and they fixed the page number there. However, dblp didn't update the data on their side (which is the source database for the scripts).
